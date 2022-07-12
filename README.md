@@ -2,4 +2,4 @@
 Download pixiv artworks.
 
 ## License
-[WTFPL](LICENSE)
+[MIT License](LICENSE)
