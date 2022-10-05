@@ -1,5 +1,6 @@
 # pixivdl
-Download pixiv artworks.
+Download pixiv artworks.  
+たまにmp4動画がうまく作られない。
 
 ## License
-[WTFPL](LICENSE)
+[MIT License](LICENSE)
